@@ -24,8 +24,5 @@
   "bugs": {
     "url": "https://github.com/cbeard22/starWarsApp/issues"
   },
-  "homepage": "https://github.com/cbeard22/starWarsApp#readme",
-  "scripts": {
-    "start": "node server.js"
-  }
+  "homepage": "https://github.com/cbeard22/starWarsApp#readme"
 }
